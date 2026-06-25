@@ -27,6 +27,7 @@ function Home() {
     <span>LocalStorage</span>
     <span>Figma</span>
   </div>
+  <span className="view-case">View Case Study →</span>
 </Link>
 
 <Link to="/projects/insightboard" className="project-card">
