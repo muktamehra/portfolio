@@ -1,6 +1,9 @@
+ import { Link } from 'react-router-dom' 
+
 function InsightBoard() {
   return (
     <main className="case-study">
+     <Link to="/" className="back-link">← Back to Work</Link>   
       <section className="case-hero">
         <h1>InsightBoard</h1>
         <p>An analytics dashboard built with React and Recharts, featuring dynamic data visualization, dark mode, and persistent user preferences.</p>

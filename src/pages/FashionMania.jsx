@@ -1,6 +1,9 @@
+import { Link } from 'react-router-dom'
+
 function FashionMania() {
   return (
     <main className="case-study">
+    <Link to="/" className="back-link">← Back to Work</Link>
       <section className="case-hero">
         <h1>Fashion Mania</h1>
         <p>A fully functional e-commerce UI built with React, featuring product browsing, search, and a persistent shopping cart.</p>

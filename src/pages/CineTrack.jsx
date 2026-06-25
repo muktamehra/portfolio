@@ -1,6 +1,9 @@
+ import { Link } from 'react-router-dom' 
+
 function CineTrack() {
   return (
     <main className="case-study">
+    <Link to="/" className="back-link">← Back to Work</Link>
       <section className="case-hero">
         <h1>CineTrack</h1>
         <p>A movie watchlist app built with React and the TMDB API, featuring genre tags, star ratings, and a persistent watchlist.</p>
