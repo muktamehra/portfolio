@@ -342,3 +342,14 @@ nav a.active {
   color: #999;
   margin-bottom: 32px;
 }
+
+.footer {
+  padding: 40px 60px;
+  border-top: 1px solid #e0e0e0;
+  margin-top: 80px;
+}
+
+.footer p {
+  font-size: 13px;
+  color: #999;
+}
