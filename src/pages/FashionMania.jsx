@@ -33,7 +33,7 @@ function FashionMania() {
 
       <section className="case-section">
         <h2>Design Mockup</h2>
-        <p>Designed a desktop and mobile mockup in Figma including a product grid, hero section, filter tabs, and responsive mobile layout.</p>
+        <p>Designed both desktop and mobile mockups in Figma. The desktop layout includes a hero section, filter tabs, and a 4-card product grid. The mobile layout (iPhone 14) features a 2-column product grid optimized for smaller screens.</p>
         <div className="figma-embed">
           <iframe
             src="https://www.figma.com/embed?embed_host=share&url=https://www.figma.com/design/HJSxRaXphWhZsxSCf6SvaA/Fashion-Mania?node-id=0-1"
