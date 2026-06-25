@@ -330,3 +330,15 @@ nav a.active {
 .back-link:hover {
   color: #1a1a1a;
 }
+
+.learning {
+  margin-bottom: 60px;
+}
+
+.learning h2 {
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #999;
+  margin-bottom: 32px;
+}

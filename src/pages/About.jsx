@@ -31,11 +31,30 @@ function About() {
         </div>
       </section>
 
+      <section className="learning">
+  <h2>Currently Learning</h2>
+  <div className="skills-grid">
+    <div className="skill-group">
+      <h3>In Progress</h3>
+      <ul>
+        <li>Figma (UI/UX Design)</li>
+        <li>TypeScript</li>
+        <li>REST APIs & Async/Await</li>
+        <li>Tailwind CSS</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
       <section className="contact">
-        <h2>Contact</h2>
-        <p>Open to UI Developer and React Developer roles. Feel free to reach out!</p>
-        <a href="mailto:your@email.com">2muktamehra@gmail.com</a>
-      </section>
+  <h2>Contact</h2>
+  <p>Open to UI Developer and React Developer roles. Feel free to reach out!</p>
+  <a href="mailto:2muktamehra@gmail.com">2muktamehra@gmail.com</a>
+  <br /><br />
+  <a href="https://github.com/muktamehra" target="_blank" rel="noreferrer">GitHub →</a>
+  <br /><br />
+  <a href="/Resume.pdf" target="_blank" rel="noreferrer">Download Resume →</a>
+</section>
     </main>
   )
 }
