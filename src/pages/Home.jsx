@@ -42,6 +42,7 @@ function Home() {
     <span>Dark Mode</span>
     <span>LocalStorage</span>
   </div>
+  <span className="view-case">View Case Study →</span>
 </Link>
 
 <Link to="/projects/cinetrack" className="project-card">
@@ -56,6 +57,7 @@ function Home() {
     <span>LocalStorage</span>
     <span>Responsive</span>
   </div>
+  <span className="view-case">View Case Study →</span>
 </Link>
         </div>
       </section>
